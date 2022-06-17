@@ -1,0 +1,10 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+ .site-branding a {
+    color: none;
+}
+.header-circle1, .header-circle2, .header-circle3, .header-circle4, .header-circle5, .header-circle6 {
+    display: none;
+}

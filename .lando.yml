@@ -1,0 +1,4 @@
+name: nixon_fj
+recipe: drupal9
+config:
+  webroot: .
